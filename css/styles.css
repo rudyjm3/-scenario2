@@ -57,7 +57,7 @@
   min-height: 100%;
   cursor: auto;
 }
-/* ANIMATE SLIDE    */
+/* SHOW AND ANIMATE SLIDE    */
 .jumbo-slider__slide--active .jumbo-slider__slide-bg{
   opacity: .5;
 }
