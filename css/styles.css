@@ -55,6 +55,7 @@
   bottom: 0;
   min-width: 100%;
   min-height: 100%;
+  cursor: auto;
 }
 /* ANIMATE SLIDE    */
 .jumbo-slider__slide--active .jumbo-slider__slide-bg{
